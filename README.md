@@ -11,7 +11,7 @@
 - **Spring Boot** and **Angular** Frameworks
 - Python
 - Git, Maven 
-- Trello, Jira, Confluence
+- Trello, Jira, Confluence  
 🌱 Currently learning :
 - Vue.js
 - Quasar
