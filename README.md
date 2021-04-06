@@ -2,7 +2,7 @@
 
 My name is Massil, I'm 21 and I live in Paris, France 🗼
 
-- 🏆 I’m a Sorbonne University graduate
+- 🏆 I’m a Sorbonne University graduate.
 - 💼 Currently working at [LCL](www.lcl.fr) as a <Fullstack Software Engineer/>
 - 🎓 And pursuing a Master’s degree in Business Informatics at Paris Panthéon Sorbonne University.
 - 🛠 My favorite tools as a Developer are :
@@ -11,10 +11,13 @@ My name is Massil, I'm 21 and I live in Paris, France 🗼
    - **Spring Boot** and **Angular** Frameworks
    - Git, Maven
    - Trello, Jira, Confluence
-   - 
+- 🌱 Currently learning
+   - Vue.js
+   - Quasar
+   - Meteor
 
 - 💬 I’m an IT enthusiast, passionate about web and mobile development and new technologies
-- ★ I’m also keen on 
+- ⭐️ I’m also keen on 
    - 📸 Photography
    - 🍣 Gastronomy
    - ✈️ Traveling
@@ -27,17 +30,4 @@ My name is Massil, I'm 21 and I live in Paris, France 🗼
 
 #### See you soon !
 
-<!--
-**massiltag/massiltag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
