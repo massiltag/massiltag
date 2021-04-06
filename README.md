@@ -25,7 +25,7 @@
 - 🎮 Video games
 - 🥋 Martial arts
 
-I'm fluent in French 🇫🇷, English 🇬🇧 and currently learning Spanish 🇪🇸  
+I'm fluent in 🇫🇷 French, 🇬🇧 English and currently learning 🇪🇸 Spanish ;  
 
 📫 How to reach me ?
 - [My LinkedIn Profile](https://www.linkedin.com/in/mtag/) ;  
