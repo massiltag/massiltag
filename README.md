@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Massil, I'm 21 and I live in Paris, France 🗼
+My name is Massil, I'm 21 and I live in Paris, France 🗼  
 {
    - 🏆 I’m a Sorbonne University graduate ;
    - 💼 Currently working at [LCL](www.lcl.fr) as a _Fullstack Software Engineer_ ;
@@ -27,7 +27,7 @@ My name is Massil, I'm 21 and I live in Paris, France 🗼
 
    - 📫 How to reach me ?
        - [My LinkedIn Profile](https://www.linkedin.com/in/mtag/) ;
-       - My E-Mail address : [massiltag@icloud.com](mailto:massiltag@icloud.com) ;
+       - My E-Mail address : [massiltag@icloud.com](mailto:massiltag@icloud.com) ;  
 }
 
 #### See you soon !
