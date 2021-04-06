@@ -12,6 +12,8 @@
 - Python
 - Git, Maven 
 - Trello, Jira, Confluence  
+
+
 🌱 Currently learning :
 - Vue.js
 - Quasar
