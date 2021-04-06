@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Massil, I'm 21 and I live in Paris, France 🗼 
-{
+👨🏻‍🎓 My name is Massil, I'm 21 and I live in Paris, France 🗼 
+{  
 🏆 I’m a Sorbonne University graduate ;  
 💼 Currently working at [LCL](www.lcl.fr) as a _Fullstack Software Engineer_ ;  
 🎓 And pursuing a Master’s degree in Business Informatics at Paris Panthéon Sorbonne University ;  
