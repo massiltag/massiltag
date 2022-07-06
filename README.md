@@ -15,9 +15,7 @@
 
 
 🌱   Currently learning :
-- Vue.js
-- Quasar
-- Meteor
+- React Native
 
 💬   I’m an IT enthusiast, passionate about web and mobile development and new technologies ;  
 ⭐️   I’m also keen on :
